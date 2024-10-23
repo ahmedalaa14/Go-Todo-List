@@ -1,10 +1,10 @@
 # Go-Web-API
 
-A simple TodoList application written in Go that allows users to view and manage their tasks through HTTP endpoints.
+- A simple TodoList application written in Go that allows users to view and manage their tasks through HTTP endpoints.
 
 ## Description
 
-This project is a basic web server that provides endpoints to display a list of tasks and greet the user. It demonstrates basic HTTP handling and string manipulation in Go.
+- This project is a basic web server that provides endpoints to display a list of tasks and greet the user. It demonstrates basic HTTP handling and string manipulation in Go.
 
 ## Installation
 
