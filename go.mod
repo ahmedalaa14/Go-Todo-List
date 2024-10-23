@@ -1,3 +1,3 @@
-module Go-todo-list
+module Go-Web-API
 
 go 1.21
