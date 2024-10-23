@@ -37,4 +37,5 @@ func printTasks(taskItems []string) {
 func addTasks(taskItems []string, newTask string) []string {
 	var updatedTaskItems = append(taskItems, newTask)
 	return updatedTaskItems
+
 }
